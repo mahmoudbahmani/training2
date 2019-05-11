@@ -10,4 +10,6 @@ git status
 git commit -m  'comment with is arbitrary'  : simple and fast commit with reason of commit 
 git branch name : make new branch (our name is first branch)
 git checkout name : switch to branch that has been created above
-git merge (name of the file of another branch that would be merge)
+git merge (name of the branch that we want to merge to the master)
+
+git push -u origin master
