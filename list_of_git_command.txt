@@ -1,0 +1,9 @@
+touch name.py    creat file with name and format
+git init         initialize special address(that command line should be inside) for our project
+git config --global user.name 'name'
+git config --global user.name 'email address'   
+git add name.py   set index to this file
+git rm --cached name.py   remove that file from index, so now we can choose another file as project
+git add .    this command makes all files in the repository as project
+git add *.py   this command makes all .py files in the repository as project
+git status
