@@ -14,4 +14,5 @@ git merge (name of the branch that we want to merge to the master)
 
 git push -u origin master : send data from your local repo to GitHub
 git push : as above 
-touch readme
+touch readme.dm
+git pull : getting the last update of online repository (if there would be another developer)
