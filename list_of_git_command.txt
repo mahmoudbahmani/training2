@@ -8,5 +8,5 @@ git add .  :  this command makes all files in the repository as project
 git add *.py  : this command makes all .py files in the repository as project
 git status
 git commit -m  'comment with is arbitrary'  : simple and fast commit with reason of commit 
-git branch name : make branch with special name
-git checkout name : jump to the branch that has been created above
+git branch name : make new branch
+git checkout name : switch to branch that has been created above
